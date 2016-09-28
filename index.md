@@ -1,1 +1,2 @@
 -   [Getting a repo](./getting_repo.html)
+-   [Adding a new file](./adding_newfile.html)
